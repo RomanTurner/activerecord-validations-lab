@@ -39,6 +39,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (7.1.4)
+    awesome_print (1.9.2)
     bootsnap (1.4.0)
       msgpack (~> 1.0)
     builder (3.2.3)
@@ -170,6 +171,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   bootsnap
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
